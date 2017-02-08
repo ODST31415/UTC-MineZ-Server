@@ -1,0 +1,5 @@
+main: snoop.pi.sugar.Main
+name: UTCBattlePlugin
+version: 0.1
+author: Avvoire
+Description: Handles Grenades, Flashbangs, Grappling and sugar.

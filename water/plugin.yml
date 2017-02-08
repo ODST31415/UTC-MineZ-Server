@@ -1,0 +1,5 @@
+main: snoop.pi.water.Main
+name: Water
+version: 0.1
+author: Mr.Pi
+Description: RightClick Sugar to gain speed for 40 seconds
